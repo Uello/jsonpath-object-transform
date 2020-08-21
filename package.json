@@ -1,5 +1,5 @@
 {
-  "name": "jsonpath-object-transform",
+  "name": "jsonpath-object-transform-uello",
   "version": "1.1.0",
   "description": "Transform an object literal using JSONPath.",
   "main": "index.js",
